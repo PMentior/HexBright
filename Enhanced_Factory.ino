@@ -15,7 +15,7 @@
    - SOS Beacon activated with Long Press while Blinking Mode is active
    - Currently Disabled. The exit code is unreliable to turn this mode off. 
      Best way right now is to rapidly press button until light starts cycling through regular modes.
- 
+ - Test for Git
  
  */
 
